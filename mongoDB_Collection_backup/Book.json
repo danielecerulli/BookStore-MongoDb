@@ -1,0 +1,21 @@
+[{
+  "_id": 6765,
+  "bookName": "Java",
+  "authorName": "James",
+  "_class": "it.danielecerulli.mongodb.model.Book"
+},{
+  "_id": 3435,
+  "bookName": ".Net",
+  "authorName": "Carl",
+  "_class": "it.danielecerulli.mongodb.model.Book"
+},{
+  "_id": 1690,
+  "bookName": "C++",
+  "authorName": "Richard",
+  "_class": "it.danielecerulli.mongodb.model.Book"
+},{
+  "_id": 7881,
+  "bookName": "Python",
+  "authorName": "Daniel",
+  "_class": "it.danielecerulli.mongodb.model.Book"
+}]
